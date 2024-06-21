@@ -3,7 +3,7 @@
 Post-Doctoral Research Associate  
 University of Nebraska Lincoln  
 Department of Community & Regional Planning  
-(606) 625-1453 | [github.com/jrandre2](https://github.com/jrandre2)
+[github.com/jrandre2](https://github.com/jrandre2)
 
 ## Education
 
