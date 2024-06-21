@@ -5,11 +5,7 @@ University of Nebraska Lincoln
 Department of Community & Regional Planning  
 [github.com/jrandre2](https://github.com/jrandre2)
 
-## Education
-
-- **Ph.D. Geography**, Oklahoma State University, Stillwater, OK, 2022
-  - Dissertation: *Three Studies Using Business Naming Patterns to Delimit Regional Geographies*
-
+  
 ## Selected Peer-Reviewed Publications
 
 1. Hollman, A. K., Obermier, T. R., & **Andrews, J. R.** (2024). A hard look at quality and policy from the lens of the rural internet consumer. *Telecommunications Policy*, 102762.
@@ -20,9 +16,9 @@ Department of Community & Regional Planning
 
 ## Professional Experience
 
-- **Postdoctoral Researcher**, Department of Community & Regional Planning, University of Nebraska Lincoln, 2024 - Present
+- **Postdoctoral Researcher**, Community & Regional Planning, University of Nebraska Lincoln, 2024 - Present
 
-- **Postdoctoral Researcher**, Department of Cyber Systems, University of Nebraska Kearney, 2021 - 2024
+- **Postdoctoral Researcher**, Cyber Systems, University of Nebraska Kearney, 2021 - 2024
   - Rural Measures Project
 
 ## Technical Skills
