@@ -25,4 +25,3 @@ Department of Community & Regional Planning
 
 - **Software:** AgiSoft Metashape, ArcGIS Pro, ArcGIS Online, Adobe Illustrator, GeoDa, Stata, SPSS, Tableau, SketchUp, QGIS, ChatGPT and Claude APIs
 - **Programming Languages:** R, Python
-- **Learning Management Software:** Canvas, Blackboard
