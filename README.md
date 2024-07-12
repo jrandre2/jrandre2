@@ -6,7 +6,7 @@ Department of Community & Regional Planning
 [github.com/jrandre2](https://github.com/jrandre2)
 
   
-## Selected Peer-Reviewed Publications
+## Select Peer-Reviewed Publications
 
 1. Hollman, A. K., Obermier, T. R., & **Andrews, J. R.** (2024). A hard look at quality and policy from the lens of the rural internet consumer. *Telecommunications Policy*, 102762.
 
