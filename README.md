@@ -1,4 +1,4 @@
-# Jesse R. Andrews
+# Jesse R. Andrews, Ph.D.
 
 Post-Doctoral Research Associate  
 University of Nebraska Lincoln  
