@@ -23,5 +23,5 @@ Department of Community & Regional Planning
 
 ## Technical Skills
 
-- **Software:** AgiSoft Metashape, ArcGIS Pro, ArcGIS Online, Adobe Illustrator, GeoDa, Stata, SPSS, Tableau, SketchUp, QGIS, ChatGPT and Claude APIs
+- **Software:** ArcGIS Pro, ArcGIS Online, Adobe Illustrator, GeoDa, Stata, SPSS, Tableau, SketchUp, QGIS
 - **Programming Languages:** R, Python
