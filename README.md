@@ -1,8 +1,9 @@
 # Jesse R. Andrews, Ph.D.
 
 Post-Doctoral Research Associate  
-University of Nebraska Lincoln  
-Department of Community & Regional Planning  
+Texas Tech University
+Center of Excellence in Capacity-building for Resilient Housing 
+Department of Civil, Environmental & Construction Engineering  
 [github.com/jrandre2](https://github.com/jrandre2)
 
   
