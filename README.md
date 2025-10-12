@@ -32,12 +32,6 @@ Previously: Postdoctoral Researcher, Community & Regional Planning (UNL, 2024–
 - Hollman, A. K., Obermier, T. R., & **Andrews, J. R.** (2024). Rural broadband usage: Analysing satisfaction and internet speed. *Rural Society*, 33(1), 19–32.  
 - Lightfoot, D. R., Finchum, A., Vadjunec, J. M., **Andrews, J. R.**, & Odenwald, J. (2023). Traditional environmental knowledge and transport efficiency… *Journal of Historical Geography*, 80, 79–93.
 
-<details>
-<summary><em>Preprints/Conference</em></summary>
-
-- **Andrews, J. R.**, Hollman, A., Lee, J. (2025). <em>What Predicts Broadband Usage?</em> TPRC 54 (Conference on Communications, Information & Internet Policy).  
-- Hollman, A., **Andrews, J. R.**, & Obermier, T. (2022). <em>Rural Consumer Internet Perspectives: A Hard Look at Quality and Policy</em>. TPRC 52 / SSRN 4177520.  
-</details>
 
 ---
 
