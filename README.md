@@ -12,7 +12,7 @@ Department of Civil, Environmental & Construction Engineering
 
 ## About
 
-I study how hazards, housing, and infrastructure intersect—especially **flood risk**, **housing resilience**, and the **rural digital divide**. Methodologically, my work blends **GIS**, **remote sensing/GeoAI**, and **spatial statistics** with applied planning and policy evaluation.
+I study how hazards, housing, and infrastructure intersect, especially **flood risk**, **housing resilience**, and the **rural digital divide**. Methodologically, my work blends **GIS**, **remote sensing/GeoAI**, and **spatial statistics** with applied planning and policy evaluation.
 
 **Current projects**
 - Flood risk at the parcel/building scale and implications for ownership, tenure, and recovery  
