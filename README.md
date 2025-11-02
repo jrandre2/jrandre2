@@ -5,7 +5,7 @@ Texas Tech University — Center of Excellence in Capacity-building for Resilien
 Department of Civil, Environmental & Construction Engineering
 
 - 📍 Lubbock, TX  
-- ✉️ jesserandrews@gmail.com
+- ✉️ jesserand@ttu.edu
 - 🧪 GitHub: [github.com/jrandre2](https://github.com/jrandre2)
 
 ---
